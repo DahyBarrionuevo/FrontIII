@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/htpps.//DahyBarrionuevo.github.io/FrontIII/static/css/main.7792d819.css",
+    "main.js": "/htpps.//DahyBarrionuevo.github.io/FrontIII/static/js/main.bdcff0ca.js",
+    "index.html": "/htpps.//DahyBarrionuevo.github.io/FrontIII/index.html",
+    "main.7792d819.css.map": "/htpps.//DahyBarrionuevo.github.io/FrontIII/static/css/main.7792d819.css.map",
+    "main.bdcff0ca.js.map": "/htpps.//DahyBarrionuevo.github.io/FrontIII/static/js/main.bdcff0ca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7792d819.css",
+    "static/js/main.bdcff0ca.js"
+  ]
+}
